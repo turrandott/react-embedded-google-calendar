@@ -16,8 +16,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "build-lib": "rollup -c",
-    "publish": "npm run build-lib && npm version patch && npm publish --access public"
+    "build-lib": "rollup -c"
   },
   "keywords": [
     "react",
