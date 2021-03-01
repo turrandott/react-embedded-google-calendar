@@ -8,5 +8,9 @@ const publicUrl = "https://calendar.google.com/calendar/u/0/embed?ctz=Europe/Rom
 //const publicUrl = "https://calendar.google.com/calendar/embed?src=tarzhakova%40gmail.com&ctz=Europe%2FRome";
 
 stories.add('Embedded Google Calendar', () => {
-    return (<ReactEmbeddedGoogleCalendar publicUrl={publicUrl}/>);
+    return (
+        <div style={{height: '500px'}}>
+            <ReactEmbeddedGoogleCalendar publicUrl={publicUrl}/>
+        </div>
+    );
 });

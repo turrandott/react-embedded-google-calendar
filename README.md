@@ -12,8 +12,8 @@ React component for embedding Google Calendar
 
 ### Default values
 `
-width = `100%`,
-height = `600`
+width = '100%',
+height = '100%'
 `
 
 ### Non-default example
