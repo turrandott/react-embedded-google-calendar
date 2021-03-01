@@ -1,5 +1,5 @@
 # react-embedded-google-calendar
-React component for embedding Google Calendar",
+React component for embedding Google Calendar
 <br>
 
 ## Import
