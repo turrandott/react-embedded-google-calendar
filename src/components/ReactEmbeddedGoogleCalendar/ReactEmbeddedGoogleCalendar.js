@@ -1,7 +1,7 @@
 import React from 'react';
 //const publicUrl = "https://calendar.google.com/calendar/u/0/embed?ctz=Europe/Rome&src=cnZ0djUzcTlicDdsMmRwbXZkbnMyMHVucDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ";
 
-const ReactEmbeddedGoogleCalendar = ({ 
+export const ReactEmbeddedGoogleCalendar = ({ 
 publicUrl = '',
 width = `100%`,
 height = `400`
@@ -14,5 +14,3 @@ height = `400`
         </iframe>
     )
 };
-
-export default ReactEmbeddedGoogleCalendar;

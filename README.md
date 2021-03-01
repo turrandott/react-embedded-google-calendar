@@ -3,11 +3,11 @@ React component for embedding Google Calendar
 <br>
 
 ## Import
-`import GoogleCalendar from 'react-embedded-google-calendar';`
+`import { ReactEmbeddedGoogleCalendar } from 'react-embedded-google-calendar';`
 
 ## Example
 `
-    <GoogleCalendar publicUrl ="your-publicUrl"/>
+    <ReactEmbeddedGoogleCalendar publicUrl ="your-publicUrl"/>
 `
 
 ### Default values
@@ -18,5 +18,5 @@ height = `600`
 
 ### Non-default example
 `
-    <GoogleCalendar publicUrl ="your-publicUrl" height= '400'/>
+    <ReactEmbeddedGoogleCalendar publicUrl ="your-publicUrl" height= '400'/>
 `

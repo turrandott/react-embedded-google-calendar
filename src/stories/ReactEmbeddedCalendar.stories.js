@@ -1,7 +1,7 @@
 import React from 'react';
 import { storiesOf } from '@storybook/react';
 
-import ReactEmbeddedGoogleCalendar from '../components/ReactEmbeddedGoogleCalendar';
+import { ReactEmbeddedGoogleCalendar } from '../components/ReactEmbeddedGoogleCalendar';
 const stories = storiesOf('Test', module);
 
 const publicUrl = "https://calendar.google.com/calendar/u/0/embed?ctz=Europe/Rome&src=cnZ0djUzcTlicDdsMmRwbXZkbnMyMHVucDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ";
