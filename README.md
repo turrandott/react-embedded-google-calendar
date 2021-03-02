@@ -1,5 +1,7 @@
 # react-embedded-google-calendar
-React component for embedding Google Calendar
+React component for embedding Google Calendar as [npm package](https://www.npmjs.com/package/react-embedded-google-calendar)
+### npm
+https://www.npmjs.com/package/react-embedded-google-calendar
 <br>
 
 ### Demo
