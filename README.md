@@ -18,5 +18,5 @@ height = '100%'
 
 ### Non-default example
 `
-    <ReactEmbeddedGoogleCalendar publicUrl ="your-publicUrl" height= '400'/>
+    <ReactEmbeddedGoogleCalendar publicUrl ="your-publicUrl" height= '400px'/>
 `

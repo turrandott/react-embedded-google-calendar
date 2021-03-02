@@ -1,5 +1,4 @@
 import React from 'react';
-//const publicUrl = "https://calendar.google.com/calendar/u/0/embed?ctz=Europe/Rome&src=cnZ0djUzcTlicDdsMmRwbXZkbnMyMHVucDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ";
 
 export const ReactEmbeddedGoogleCalendar = ({ 
 publicUrl = '',
