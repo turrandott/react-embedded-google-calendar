@@ -1,9 +1,7 @@
-import React from 'react';
-
 export const ReactEmbeddedGoogleCalendar = ({ 
-publicUrl = '',
-width = `100%`,
-height = `100%`
+    publicUrl = '',
+    width = `100%`,
+    height = `100%`
 }) => { 
     if (publicUrl === '') return (<p>Please, provide public URL of your Google calendar</p>);
     return ( 
