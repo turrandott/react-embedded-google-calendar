@@ -1,6 +1,6 @@
 {
   "name": "react-embedded-google-calendar",
-  "version": "2.0",
+  "version": "2.0.0",
   "description": "React component for embedding Google Calendar",
   "type": "module",
   "main": "dist/index.js",
@@ -42,7 +42,7 @@
     "rollup": "^4.9.6",
     "rollup-plugin-peer-deps-external": "^2.2.4"
   },
-  "dependencies": {
+  "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
