@@ -16,7 +16,7 @@ Updated to React 18.2.0
 
 ## Example
 `
-    <ReactEmbeddedGoogleCalendar publicUrl ="your-publicUrl"/>
+    <ReactEmbeddedGoogleCalendar publicUrl="your-publicUrl" />
 `
 
 ### Default values
@@ -27,5 +27,5 @@ height = '100%'
 
 ### Non-default example
 `
-    <ReactEmbeddedGoogleCalendar publicUrl ="your-publicUrl" height= '400px'/>
+    <ReactEmbeddedGoogleCalendar publicUrl="your-publicUrl" height= '400px' />
 `

@@ -1,6 +1,6 @@
 {
   "name": "react-embedded-google-calendar",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "React component for embedding Google Calendar",
   "type": "module",
   "main": "dist/index.js",
